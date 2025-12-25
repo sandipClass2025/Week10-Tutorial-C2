@@ -1,3 +1,3 @@
 # Week10-Tutorial-C2
 Cloud Computing Service Types with real world examples.
-Answer here.....
+## Answer:
