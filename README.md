@@ -6,7 +6,7 @@
 
 
 ```
-If you are planning to start a cloud service what type of service would you provide? Why?
+2. If you are planning to start a cloud service what type of service would you provide? Why?
 ## Answer:
 ```
 
