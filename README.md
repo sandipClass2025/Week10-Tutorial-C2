@@ -1,7 +1,16 @@
 # Week10-Tutorial
-Cloud Computing Service Types with real world examples.
+1. Cloud Computing Service Types with real world examples.
 ## Answer:
 ```
+
+
+
+```
+If you are planning to start a cloud service what type of service would you provide? Why?
+## Answer:
+```
+
+
 
 
 
